@@ -1,8 +1,7 @@
 # bingo
 bingo for the tec-1 in mint code
 
-
-
+from chatgpt
 
 Here is the **full MINT code** for a complete working CLI-based 90-ball bingo game using only `n` and `b`, with full inline comments explaining every step:
 
